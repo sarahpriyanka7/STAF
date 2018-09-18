@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite-Listeners"> 
+<listeners>
+	<listener class-name = "GenericLibraryT.Listen"></listener>
+	<listener class-name = "GenericLibraryT.ExtentReporterNG"></listener>
+</listeners>
+  <test  name="Testguru">
+    <classes>
+      <class name="PageAction.Launchingbrowsers"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

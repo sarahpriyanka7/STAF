@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite-Listeners" duration-ms="120440" started-at="2018-08-31T05:38:15Z" finished-at="2018-08-31T05:40:16Z">
+    <groups>
+    </groups>
+    <test name="Testguru" duration-ms="120440" started-at="2018-08-31T05:38:15Z" finished-at="2018-08-31T05:40:16Z">
+      <class name="PageAction.Launchingbrowsers">
+        <test-method status="PASS" signature="login()[pri:0, instance:PageAction.Launchingbrowsers@4590c9c3]" name="login" duration-ms="120419" started-at="2018-08-31T11:08:15Z" finished-at="2018-08-31T11:10:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- PageAction.Launchingbrowsers -->
+    </test> <!-- Testguru -->
+  </suite> <!-- Suite-Listeners -->
+</testng-results>

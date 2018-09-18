@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44599" started-at="2018-09-04T05:44:10Z" finished-at="2018-09-04T05:44:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44599" started-at="2018-09-04T05:44:10Z" finished-at="2018-09-04T05:44:54Z">
+      <class name="PageAction.log4j_demo">
+        <test-method status="PASS" signature="Log4j()[pri:0, instance:PageAction.log4j_demo@57baeedf]" name="Log4j" duration-ms="44564" started-at="2018-09-04T11:14:10Z" finished-at="2018-09-04T11:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Log4j -->
+      </class> <!-- PageAction.log4j_demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
